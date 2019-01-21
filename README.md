@@ -2,7 +2,7 @@
 
 # This repo is to follow along the 30 Day Vanilla JS Challenge building an app with Wes Bos.
 # Link to the course https://javascript30.com/
-# For the next 30 days i'll be coding something new. See below on the daily outline
+# For the next 30 days i'll be coding something new. See below for the daily outline
 
 # Day 1
 -Getting Setup
