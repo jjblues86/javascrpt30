@@ -11,15 +11,15 @@
 
 # Day 2
 -CSS + JS Clock
--Status:
+-Status: DONE
 
 # Day 3
 Playing with CSS Variables and JS
--Status:
+-Status: DONE
 
 # Day 4
 -Array Cardio Day 1
--Status:
+-Status: DONE
 
 # Day 5
 -Flex Panels Image Gallery
