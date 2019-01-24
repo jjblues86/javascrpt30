@@ -23,11 +23,11 @@ Playing with CSS Variables and JS
 
 # Day 5
 -Flex Panels Image Gallery
--Status:
+-Status: DONE
 
 # Day 6
 -Ajax Type Ahead
--Status:
+-Status: DONE
 
 #Day 7
 -Array Cardio Day 2
