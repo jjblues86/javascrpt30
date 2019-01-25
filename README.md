@@ -29,19 +29,19 @@ Playing with CSS Variables and JS
 -Ajax Type Ahead
 -Status: DONE
 
-#Day 7
+# Day 7
 -Array Cardio Day 2
 -Status: DONE
 
-#Day 8
+# Day 8
 -Fun with HTML5 Canvas
 -Status: DONE
 
-#Day 9
+# Day 9
 -14 Must Know Dev Tools Tricks
 -Status:
 
-#Day 10
+# Day 10
 -Hold Shift to Check Multiple Checkboxes
 -Status:
 
