@@ -31,11 +31,11 @@ Playing with CSS Variables and JS
 
 #Day 7
 -Array Cardio Day 2
--Status:
+-Status: DONE
 
 #Day 8
 -Fun with HTML5 Canvas
--Status:
+-Status: DONE
 
 #Day 9
 -14 Must Know Dev Tools Tricks
