@@ -39,11 +39,11 @@ Playing with CSS Variables and JS
 
 # Day 9
 -14 Must Know Dev Tools Tricks
--Status:
+-Status: DONE
 
 # Day 10
 -Hold Shift to Check Multiple Checkboxes
--Status:
+-Status: DONE
 
 # Day 11
 -Custom HTML5 Video Player

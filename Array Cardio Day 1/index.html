@@ -97,3 +97,15 @@
   </script>
 </body>
 </html>
+
+let size = 8;
+
+
+for(let i = 1; i <= size; i ++){
+  let row = [];
+  let char = i === size ? ' ' : '-';
+  for(let j = 1; j <= size; j++){
+    row.push(char);
+  }
+  console.log(row.join('|'));
+}
