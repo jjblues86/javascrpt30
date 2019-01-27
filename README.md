@@ -47,11 +47,11 @@ Playing with CSS Variables and JS
 
 # Day 11
 -Custom HTML5 Video Player
--Status:
+-Status: DONE
 
 # Day 12
 -Key Sequence Detection (KONAMI CODE)
--Status:
+-Status: DONE
 
 # Day 13
 -Slide In on Scroll
